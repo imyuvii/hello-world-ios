@@ -123,6 +123,7 @@
 				TargetAttributes = {
 					5D06DC8D1EAF498D00D52862 = {
 						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = Z2E64V7JRN;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -338,6 +339,7 @@
 			baseConfigurationReference = 8CEEB850C6F9BB77495EE161 /* Pods-HelloWorld.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Z2E64V7JRN;
 				INFOPLIST_FILE = HelloWorld/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -352,6 +354,7 @@
 			baseConfigurationReference = 8ED2C2F4DDC1BD18ACD6C7B3 /* Pods-HelloWorld.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = Z2E64V7JRN;
 				INFOPLIST_FILE = HelloWorld/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
